@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-practice",
+  "version": "1.0.0",
+  "description": "Practincing NodeJs and improving my skills...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Himanshuparida2/NodeJs.git"
+  },
+  "keywords": [
+    "nodeJs",
+    "NodeJs"
+  ],
+  "author": "Himanshu Sekhar Parida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Himanshuparida2/NodeJs/issues"
+  },
+  "homepage": "https://github.com/Himanshuparida2/NodeJs#readme"
+}
